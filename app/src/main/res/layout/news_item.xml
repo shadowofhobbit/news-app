@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="352dp"
+    android:layout_marginBottom="6dp">
+
+    <include layout="@layout/news_layout" />
+</com.google.android.material.card.MaterialCardView>

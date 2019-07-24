@@ -4,4 +4,7 @@
     <string name="title_search">Поиск</string>
     <string name="title_notifications">Уведомления</string>
     <string name="title_profile">Профиль</string>
+    <string name="no_internet">Нет соединения</string>
+    <string name="tab_main">Главная</string>
+    <string name="tab_vip">VIP</string>
 </resources>

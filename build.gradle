@@ -23,6 +23,11 @@ allprojects {
     }
 }
 
+ext {
+    retrofitVersion = '2.6.0'
+    archVersion = "2.1.0-rc01"
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
